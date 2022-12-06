@@ -5,3 +5,5 @@ Dies ist nur eine Testkarte, die in Google Colab angelegt wurde, um zu zeigen, w
 wie Popups mit diesen zusätzlichen Angaben (inkl. Bilddateien) aussehen könnten.
 
 Das Python-Skript kann um die Zeile "my_map.save=('Potsdam.html')" (ohne doppelte Anführungszeichen) ergänzt werden, um die Karte als html zu exportieren.
+
+![Screenshot](Potsdam.png)
